@@ -1,4 +1,3 @@
-```jsx
 import React, { useEffect, useRef, useState } from 'react'
 
 const CELL = 20
@@ -146,4 +145,4 @@ export default function SnakeGame() {
     </div>
   )
 }
-```
+
